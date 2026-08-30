@@ -14,7 +14,7 @@ choosing from the Nifty 100, Midcap 100 and Smallcap 100 universes.
 | | Portfolio | Nifty 50 |
 |------|------|------|
 | Total Net PNL | **₹15.34 Cr** | ₹0.86 Cr |
-| Final value (from ₹1 Cr) | ₹16.34 Cr | - |
+| Final value (from ₹1 Cr) | ₹16.34 Cr | ₹1.86 Cr |
 | Total return | 1533.8% | 86.4% |
 | Annualised return | 74.9% | 13.3% |
 | Max drawdown | -30.9% | -17.2% |
