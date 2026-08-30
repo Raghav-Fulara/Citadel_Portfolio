@@ -2,7 +2,7 @@
 
 **Finesse x Citadel Portfolio Challenge - Round 2**
 
-Team `Anti Buldhana Gang` - `<Raghav Fulara(Team Leader)>` - `Mayuresh Thengzode` - `Nirmit Bangar`
+Team `Anti Buldhana Gang` - `Raghav Fulara(Team Leader)` - `Mayuresh Thengzode` - `Nirmit Bangar`
 IIT Bombay
 
 ---
